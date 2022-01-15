@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "175703388170",
+    "project_id": "eshoppe-1cb54",
+    "storage_bucket": "eshoppe-1cb54.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:175703388170:android:5cf7a7d22ee1d1d33f2ff3",
+        "android_client_info": {
+          "package_name": "com.shopping.e_commerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "175703388170-5c7dukik9i661330pfhk4ov6g19hna0l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9CKFneRLFv4EOR7UdMFdx4wSSWAtLgGw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "175703388170-5c7dukik9i661330pfhk4ov6g19hna0l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
